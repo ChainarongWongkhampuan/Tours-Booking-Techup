@@ -1,0 +1,11 @@
+.gallery {
+  background-image: url("../assets/images/bg1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.gallery h1 {
+  color: blue;
+  font-size: 4rem;
+}

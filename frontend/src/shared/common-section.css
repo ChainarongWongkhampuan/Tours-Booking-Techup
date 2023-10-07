@@ -1,0 +1,14 @@
+.common__section {
+  background: url("../assets/images/bg2.jpg");
+  background-size: cover;
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.common__section h1 {
+  font-size: 4rem;
+  color: blue;
+}
